@@ -1,4 +1,4 @@
 # Jamming
 
-Testing spotify api with react.js
+Testing spotify api with react.js (Class Components)
 (Codeacademy inspired)
